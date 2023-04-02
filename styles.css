@@ -1,0 +1,205 @@
+body{
+ background-color: #F6F1F1;
+ color: #472D2D;
+ font-family: 'Montserrat', sans-serif;
+}
+
+.head1{
+    padding-left: 2rem
+}
+
+.head101{
+    padding-left: 8rem;
+}
+
+.head2{
+    padding-left: 0.2rem
+}
+
+.head201{
+    padding-left: 8rem;
+}
+
+.main-icon{
+    max-width: 100px;
+}
+
+.first{
+    padding-top: 2rem;
+}
+
+.hor-rule{
+    border-top: 1px solid;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h4{
+    text-align: left;
+    font-size: 1.5rem;
+}
+
+h5{
+    text-align: right;
+    font-size: 1.2rem;
+}
+
+.text1{
+    padding-left: 5rem;
+    padding-bottom: 2rem;
+}
+
+.text2{
+    padding-right: 4.5rem;
+    padding-bottom: 2rem;
+}
+
+.text4{
+    padding-right: 4.5rem;
+    padding-bottom: 2rem;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.main-image{
+   width: 1100px;
+   height: 600px;
+}
+
+.main-image-div{
+    justify-content: center;
+    padding-left: 5rem;
+    padding-bottom: 5rem;
+   
+}
+
+.coffee1{
+   width: 600px;
+   height: 350px;
+}
+
+.image-one{
+    padding-left: 600px;
+    padding-bottom: 5rem;
+}
+
+.coffee2{
+    width: 600px;
+   height: 340px;
+}
+
+.image-two{
+    padding-left: 5rem;
+    padding-bottom: 5rem;
+}
+
+.text3{
+    padding-left: 5rem;
+    padding-bottom: 2rem;
+}
+
+.coffee3{
+    width: 600px;
+   height: 340px;
+}
+
+.image-three{
+    padding-left: 600px;
+    padding-bottom: 5rem;
+}
+
+h3{
+    text-align: left;
+    font-size: 2.3rem;
+}
+
+.text5{
+    padding-left: 5rem;
+    padding-bottom: 2rem;
+}
+
+.Items{
+    padding-left: 5rem;
+    padding-bottom: 1rem;
+}
+
+.row01 {
+    display: flex;
+    padding-left: 5rem;
+    padding-right: 2rem;
+    padding-bottom: 5rem;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  .dishes{
+    width: 370px;
+    height: 400px;
+  }
+
+  .dish-name{
+    padding-top: 13px;
+  }
+  .emp-pic{
+    width: 580px;
+    height: 400px;
+    padding-left: 3rem;
+  }
+
+  .row1 {
+    display: flex;
+    padding-left: 4rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+  }
+  
+  .col1 {
+    flex: 50%;
+    padding: 5px;
+  }
+
+  .emp-text{
+    padding-right: 2rem ;
+    padding-bottom: 1rem;
+  }
+  
+  hr{
+    height: 1px
+  }
+
+  .row {
+    display: flex;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    padding-bottom: 0.4rem;
+  }
+  
+  .col2 {
+    flex: 50%;
+    padding: 5px;
+  }
+
+  .roww{
+    display:flex
+  }
+  .col-2{
+    flex: 33.33%;
+    padding: 5px;
+
+  }
+
+  .links{
+    font-size: 100%;
+  }

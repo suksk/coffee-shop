@@ -1,0 +1,59 @@
+documentation.
+
+head->navbar
+head1,head2-> for the left and right navbar contents
+head101,head201->for aligning internal elements
+main-icon-> for styling the image
+
+first-> the entire navbar
+
+<div class="row">
+   
+      <div class="column">
+        <img class="dishes" src="photos/four- 1 of 3.png" alt="croissant">
+        <br>
+        <p class="dish-name">Croissant</p>
+        
+        <h6>$5.66</h6>
+      </div>
+      <div class="column">
+        <img class="dishes" src="photos/four- 2 of 3.png" alt="Espresso Coffee">
+        <br>
+        <p class="dish-name">Espresso Coffee</p>
+        
+        <h6>$3.50</h6>
+      </div>
+      <div class="column">
+        <img class="dishes" src="photos/four- 3 of 3.png" alt="Choco Brownies">
+        <br>
+        <p class="dish-name">Choco Brownies</p>
+        
+        <h6>$7.66</h6>
+      </div>
+  </div>
+
+
+  <div class="row">
+   
+  <div class="column">
+    <img class="dishes" src="photos/cappicino.png" alt="cappicino">
+    <br>
+    <p class="dish-name">Cappuccino</p>
+    
+    <h6>$2.13</h6>
+  </div>
+  <div class="column">
+    <img class="dishes" src="photos/Chocolate donuts.png" alt="Donuts">
+    <br>
+    <p class="dish-name">Choco Donuts</p>
+    
+    <h6>$7.50</h6>
+  </div>
+  <div class="column">
+    <img class="dishes" src="photos/Latte Machiato.png" alt="Latte">
+    <br>
+    <p class="dish-name">Latte Machiato</p>
+    
+    <h6>$3.15</h6>
+  </div>
+</div>
